@@ -1,4 +1,4 @@
-# Title: What affects income more; Ecuation or Sunlight?
+# Title: What affects income more; Eduation or Sunlight?
 
 ### Description:
 
@@ -35,7 +35,7 @@ The acutal analysis is shown in [main](./county_analysis) and [hypothesis test](
 ## Sample Example
 ![sample 5000 Arizona](./Random%20Samples%205000.png)
 
-Results:
+# Results:
 
 ## Correlation
 `k_sunlight_income = -0.0008`
