@@ -3,6 +3,7 @@
 | By MUHAMMAD AREEB|
 |---------------------------------------------------------------------------------|
 | Bachelors of Science in Geographic Information Systems & Technology |
+| University of Arizona |
 | Course: DATA 363 |
 | [officialareeb@outlook.com](mailto:officialareeb@outlook.com) |
 
