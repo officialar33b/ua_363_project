@@ -1,5 +1,15 @@
 # Title: What affects income more; Eduation or Sunlight?
 
+| By MUHAMMAD AREEB|
+|---------------------------------------------------------------------------------|
+| Bachelors of Science in Geographic Information Systems & Technology |
+| Course: GIST 483 |
+| [officialareeb@outlook.com](mailto:officialareeb@outlook.com) |
+
+## Paper
+[paper](./What%20affects%20income%20more%20-%20Final%20Report%20(1).pdf)
+
+## SUMMARY
 ### Description:
 
 This project aims to compare two response variables, sunlight and education level against the explanatory variable—income. For this, three different datasets were collected, namely Global Horizontal Irradiation (GHI), median household income data, and percentage of bachelor’s degree graduates’ data. All of these datasets were collected based on county values for the United States to make a fair comparison.  
@@ -50,6 +60,3 @@ The acutal analysis is shown in [main](./county_analysis) and [hypothesis test](
 | 100 | 23.057 | 0.88 | 0.381 | Accept Ho |
 | 500 | 24.426 | 4.916 | 1.020428e-06 | Reject Ho |
 | 5000 | 25.5377 | 16.27 | ~0 | Reject Ho |
-
-## Paper
-[paper](./What%20affects%20income%20more%20-%20Final%20Report%20(1).pdf)
